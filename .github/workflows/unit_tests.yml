@@ -13,7 +13,7 @@ jobs:
     runs-on:  ubuntu-latest
     env:
       MODULE: entity_usage
-      MODULES: entity_reference_revisions paragraphs dynamic_entity_reference webform 
+      MODULES: embed entity_embed block_field entity_reference_revisions paragraphs dynamic_entity_reference webform 
       COMPOSER_MEMORY_LIMIT: -1
       # Note, the username, password, port and db match mysql service setup.
       SIMPLETEST_DB: mysql://root:root@127.0.0.1:3306/entity_usage
