@@ -20,8 +20,10 @@
         "drupal/core": "9.5.x-dev",
         "drupal/core-composer-scaffold": "9.5.x-dev",
         "drupal/core-recommended": "9.5.x-dev",
+        "drupal/dynamic_entity_reference": "^1.16",
         "drupal/entity_usage": "2.x-dev",
         "drupal/paragraphs": "^1.15",
+        "drupal/webform": "^6.1",
         "drush/drush": "^11.0",
         "oomphinc/composer-installers-extender": "^2.0",
         "wikimedia/composer-merge-plugin": "^2.0"
