@@ -1,0 +1,39 @@
+diff --git a/tests/src/Functional/EntityUsageLayoutBuilderTest.php b/tests/src/Functional/EntityUsageLayoutBuilderTest.php
+index bfc636e..0aa771c 100644
+--- a/tests/src/Functional/EntityUsageLayoutBuilderTest.php
++++ b/tests/src/Functional/EntityUsageLayoutBuilderTest.php
+@@ -26,7 +26,7 @@ class EntityUsageLayoutBuilderTest extends BrowserTestBase {
+   /**
+    * {@inheritdoc}
+    */
+-  protected $defaultTheme = 'classy';
++  protected $defaultTheme = 'stark';
+ 
+   /**
+    * {@inheritdoc}
+diff --git a/tests/src/FunctionalJavascript/ConfigEntityTrackingTest.php b/tests/src/FunctionalJavascript/ConfigEntityTrackingTest.php
+index bae278a..3145f66 100644
+--- a/tests/src/FunctionalJavascript/ConfigEntityTrackingTest.php
++++ b/tests/src/FunctionalJavascript/ConfigEntityTrackingTest.php
+@@ -35,7 +35,7 @@ class ConfigEntityTrackingTest extends EntityUsageJavascriptTestBase {
+   /**
+    * {@inheritdoc}
+    */
+-  protected $defaultTheme = 'classy';
++  protected $defaultTheme = 'stark';
+ 
+   /**
+    * {@inheritdoc}
+diff --git a/tests/src/FunctionalJavascript/EntityUsageLayoutBuilderEntityBrowserBlockTest.php b/tests/src/FunctionalJavascript/EntityUsageLayoutBuilderEntityBrowserBlockTest.php
+index 64aa08e..7a41fba 100644
+--- a/tests/src/FunctionalJavascript/EntityUsageLayoutBuilderEntityBrowserBlockTest.php
++++ b/tests/src/FunctionalJavascript/EntityUsageLayoutBuilderEntityBrowserBlockTest.php
+@@ -24,7 +24,7 @@ class EntityUsageLayoutBuilderEntityBrowserBlockTest extends EntityUsageJavascri
+   /**
+    * {@inheritdoc}
+    */
+-  protected $defaultTheme = 'classy';
++  protected $defaultTheme = 'stark';
+ 
+   /**
+    * {@inheritdoc}
