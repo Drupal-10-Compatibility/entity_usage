@@ -125,7 +125,7 @@
                 "Issue #3287235: Automated Drupal 10 compatibility fixes": "https://git.drupalcode.org/project/entity_embed/-/merge_requests/9.patch"
             },
             "drupal/entity_usage": {
-                "Replace classy with stark in automated tests": "patches/replace-classy-with-stark.patch"
+                "Replace classy theme with stable9": "patches/replace-classy-with-stable9.patch"
             },
             "drupal/webform": {
                 "#3296068: [Drupal 9.4.x+] Test and one-off D10 deprecations": "https://www.drupal.org/files/issues/2022-07-19/webform-various-deprecations-3296068-4.patch",
